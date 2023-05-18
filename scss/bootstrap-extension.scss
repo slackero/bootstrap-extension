@@ -1,4 +1,4 @@
-@import "bootstrap-extension";
+@import "_bootstrap-extension.scss";
 
 @import "variables";
 
@@ -6,6 +6,7 @@
 
 @import "utilities/borders";
 @import "utilities/carousel";
+@import "utilities/slider";
 @import "utilities/colors";
 @import "utilities/forms";
 @import "utilities/grid-system";
